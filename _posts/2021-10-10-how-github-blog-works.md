@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "GitHub 블로그란?"
-date:   2021-10-10 11:00:00 +0200
+date:   2021-10-10 10:00:00 +0200
 categories: howto
 ---
 
