@@ -29,15 +29,63 @@ GitHub 블로그는 내부적으로 `Jekyll`이라는 기술을 사용합니다.
 
 ## GitHub 소스코드 연동 with git
 
-TODO
+TODO 설명
 
 #### Clone - 소스코드 내려받기
 
-TODO
+최초 한 번만 실행.
 
-#### Commit - 수정사항 적용하기
+원하는 디렉토리에서 아래 명령어를 실행.
 
-TODO
+    $ cd ~/myworkspace # 원하는 디렉토리로 이동. 이름은 myworkspace가 아니라 무엇이든 상관없음.
+    $ git clone https://github.com/pakiuki/pakiuki.github.io.git # 소스 내려받기
+    Cloning into 'pakiuki.github.io'...
+    remote: Enumerating objects: 31, done.
+    remote: Counting objects: 100% (31/31), done.
+    remote: Compressing objects: 100% (23/23), done.
+    remote: Total 31 (delta 10), reused 27 (delta 6), pack-reused 0
+    Receiving objects: 100% (31/31), 19.81 KiB | 1.17 MiB/s, done.
+    Resolving deltas: 100% (10/10), done.
+    $ cd pakiuki.github.io # 내려받은 소스가 있는 디렉토리로 이동
+    $ ll # 파일 확인
+    total 56
+    drwxr-xr-x  12 j.oh.2  wheel   384 Oct 16 09:09 .
+    drwxrwxrwt  25 root    wheel   800 Oct 16 09:12 ..
+    drwxr-xr-x  12 j.oh.2  wheel   384 Oct 16 09:09 .git
+    -rw-r--r--   1 j.oh.2  wheel    56 Oct 16 09:09 .gitignore
+    -rw-r--r--   1 j.oh.2  wheel   419 Oct 16 09:09 404.html
+    -rw-r--r--   1 j.oh.2  wheel  1125 Oct 16 09:09 Gemfile
+    -rw-r--r--   1 j.oh.2  wheel  1874 Oct 16 09:09 Gemfile.lock
+    -rw-r--r--   1 j.oh.2  wheel  2103 Oct 16 09:09 _config.yml
+    drwxr-xr-x   5 j.oh.2  wheel   160 Oct 16 09:09 _posts
+    -rw-r--r--   1 j.oh.2  wheel   539 Oct 16 09:09 about.markdown
+    drwxr-xr-x   3 j.oh.2  wheel    96 Oct 16 09:09 asset
+    -rw-r--r--   1 j.oh.2  wheel   175 Oct 16 09:09 index.markdown
+
+#### Status - 수정한 파일 확인하기
+
+새 파일을 추가하거나 수정하셨나요?
+
+`git status` 명령어를 실행하면 어떤 파일을 고치고 수정했는지 알아볼 수 있습니다.
+
+    $ git status
+    On branch master
+    Your branch is up to date with 'origin/master'.
+    
+    Changes not staged for commit:
+      (use "git add <file>..." to update what will be committed)
+      (use "git restore <file>..." to discard changes in working directory)
+    	modified:   _posts/2021-10-10-how-github-blog-works.md
+    
+    Untracked files:
+      (use "git add <file>..." to include in what will be committed)
+    	_posts/2021-10-16-my-new-post.md
+    
+    no changes added to commit (use "git add" and/or "git commit -a")
+
+`2021-10-10-how-github-blog-works.md`를 수정하고 `2021-10-16-my-new-post.md`를 추가했다는 것을 알 수 있습니다.
+
+#### Add & Commit - 수정사항 적용하기
 
 #### Push - 수정사항 올리기
 
@@ -46,3 +94,9 @@ TODO
 #### Pull  - 동료의 수정사항 내려받기
 
 TODO
+
+## Code에서 다운로드 받은 디렉토리를 열기
+
+<p align="center">
+  <img src="/asset/images/2021-10-10-code-open-folder.jpg" width="200px" />
+</p>
