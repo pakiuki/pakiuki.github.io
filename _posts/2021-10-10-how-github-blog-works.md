@@ -31,6 +31,9 @@ GitHub 블로그는 내부적으로 `Jekyll`이라는 기술을 사용합니다.
 
 TODO 설명
 
+> **⚠ 주의 ⚠ 아래 명령어 실행 예제에서, 명령어 줄의 가장 처음에 $ 표시는 명령어가 아닙니다. 프롬프트라고 하는, 터미널에서 자동으로 보여주는 표시입니다.**
+
+
 #### Clone - 소스코드 내려받기
 
 최초 한 번만 실행.
@@ -87,15 +90,72 @@ TODO 설명
 
 #### Add & Commit - 수정사항 적용하기
 
+수정하고 추가한 내용을 묶어서 '수정사항'이라고 부르겠습니다. 수정사항을 GitHub에 올리기 전에 일단, 수정이 완료되었음을 내 컴퓨터에 반영해야 합니다.
+
+수정한 모든 파일을 반영하겠다는 의미로 `git add .` 명령어를 실행합니다. 이 명령어는 현재 디렉토리 아래에 있는 모든 파일을 반영하겠다는 뜻입니다. `.`이 현재 디렉토리를 의미하기 때문입니다. 파일을 하나씩 하나씩 선택할 수도 있긴 합니다. 이 명령어를 실행하면 아무 결과도 출력되지 않을 겁니다. 연이어서 `git status`를 실행해봅시다.
+
+    git status
+    On branch master
+    Your branch is up to date with 'origin/master'.
+    
+    Changes to be committed:
+      (use "git restore --staged <file>..." to unstage)
+    	modified:   _posts/2021-10-10-how-github-blog-works.md
+    	new file:   _posts/2021-10-16-my-new-post.md
+
+보다시피 `Changes to be committed`, 즉 커밋이 될 수정사항에 두 파일이 뜨는 걸 볼 수 있습니다. 이제 수정사항 적용, 즉 commit을 하겠습니다. `git commit -m "my new change"`를 실행해볼까요? 따옴표 안의 메시지는 원하는대로 작성하면 됩니다.
+
+    $ git commit -m "my new change"
+    [master 2526179] my new change
+     3 files changed, 60 insertions(+), 6 deletions(-)
+     create mode 100644 _posts/2021-10-16-my-new-post.md
+     create mode 100644 asset/images/2021-10-10-code-open-folder.jpg
+
+이제 내 컴퓨터의 git 저장소에 두 파일의 수정사항이 반영되었습니다! `git status`를 실행해봐도 두 파일의 수정사항이 더 이상 표시되지 않는 것을 확인할 수 있을 겁니다.
+
 #### Push - 수정사항 올리기
 
-TODO
+아직까지 수정사항은 내 컴퓨터에 머물러있습니다. 이걸 원격 git 저장소, 즉 GitHub에 올리려면 `git push`만 실행하면 됩니다.
+
+    $ git push
+    Enumerating objects: 13, done.
+    Counting objects: 100% (13/13), done.
+    Delta compression using up to 12 threads
+    Compressing objects: 100% (6/6), done.
+    Writing objects: 100% (8/8), 68.76 KiB | 22.92 MiB/s, done.
+    Total 8 (delta 3), reused 0 (delta 0)
+    remote: Resolving deltas: 100% (3/3), completed with 3 local objects.
+    To https://github.com/pakiuki/pakiuki.github.io.git
+       6aba613..2526179  master -> master
+
+이제 `https://pakiuki.github.io/`로 가서 수정한 내용을 확인해보세요!
+
+#### 수정사항 올리기 정리
+
+수정사항 확인  
+`git status`
+
+수정사항 반영 준비  
+`git add .`
+
+수정사항 반영  
+`git commit -m "멋진 새 글 추가, 기존 글 조금 수정"`
+
+수정사항 올리기  
+`git push`
 
 #### Pull  - 동료의 수정사항 내려받기
 
-TODO
+동료가 새로운 파일을 올렸나요? 기존의 파일을 수정해서 GitHub에 올렸나요? 그렇다면 내 컴퓨터에도 반영해서 수정사항의 충돌이 발생하지 않게 해야 합니다. `git pull` 명령어를 입력해보세요.
+
+    $ git pull
+    Already up to date.
+
+음. 지금은 내려받을 추가 변경이 없다고 뜨는군요. 내려받을 내용이 있다면 다른 메시지가 표시될 겁니다. 😛
 
 ## Code에서 다운로드 받은 디렉토리를 열기
+
+이제 Code에서 소스코드를 열고 수정을 해보세요!
 
 <p align="center">
   <img src="/asset/images/2021-10-10-code-open-folder.jpg" width="200px" />
