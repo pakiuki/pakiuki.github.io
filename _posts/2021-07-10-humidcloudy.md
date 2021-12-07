@@ -4,7 +4,7 @@ title:  "높은 습도와 회색 하늘 이야기"
 date:   2021-07-10 10:12:00 +0200
 categories: posts
 description: 비워둬도 좋습니다. 혹시라도 검색최적화(SEO)를 원한다면 채워넣는게 좋습니다.
-published: false
+published: true
 ---
 
 7월 10일(토)  
