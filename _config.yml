@@ -21,7 +21,8 @@
 title: 
 email: pakiuki2021@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  ![파키우기 로고150px](/asset/images/pakiuki_logo_150.png)본 연구 사업은 서울문화재단 생활문화팀의 <생활을 바꾸는 예술 2021> 탐색 지원을 받아 진행했습니다.
+  ![파키우기 로고150px](/asset/images/pakiuki_logo_150.png)  
+  본 연구 사업은 서울문화재단 생활문화팀의 <생활을 바꾸는 예술 2021> 탐색 지원을 받아 진행했습니다.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://pakiuki.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
