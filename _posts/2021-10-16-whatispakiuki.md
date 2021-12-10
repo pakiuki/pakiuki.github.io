@@ -8,8 +8,8 @@ published: true
 ---
 
 
+![pakiuki_ivory](/asset/images/ivory_pakiuki1.png) 
 ![pakiuki_ivory](/asset/images/ivory_pakiuki.png) 
-
 
 **파테크**  
 작년 여름 태풍이 잦아 흉작이었던 파농사는 기후 위기를 보여주는 하나의 사건입니다. 사람들은 파를 안 먹을 수는 없고, 파에 나가는 돈을 아껴야만 하는 상황에서 파키우기라는 소소한 행동으로 자급자족의 경제를 만들어냈습니다.  
