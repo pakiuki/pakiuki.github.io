@@ -1,8 +1,11 @@
 ---
 layout: page-notitle
-title: 글
+title: 글 목록
 permalink: /posts/
 ---
+
+별도 포스팅 목록 페이지
+
 <div class="post-wrapper">
   {%- if site.posts.size > 0 -%}
     <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
