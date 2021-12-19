@@ -18,7 +18,7 @@ layout: default
     {% assign category_split = category | split: '|' %}
     {% assign category_id = category_split[0] %}
     {% assign category_name = category_split[1] %}
-    {% assign link = "posts-" | append: category_id | append: ".md" %}
+    {% assign link = "posts-" | append: category_id %}
     {% assign category_posts = site.categories[category_id] %}
     <tr>
       <td style="border: 1px solid transparent;">
