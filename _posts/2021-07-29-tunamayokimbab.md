@@ -2,7 +2,7 @@
 layout: post
 title:  "깻잎참치마요 김밥"
 date:   2021-07-29 10:12:00 +0200
-categories: posts
+categories: recipe
 description: 비워둬도 좋습니다. 혹시라도 검색최적화(SEO)를 원한다면 채워넣는게 좋습니다.
 published: true
 ---

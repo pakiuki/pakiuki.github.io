@@ -2,7 +2,7 @@
 layout: post
 title:  "자유탐구활동: 깻잎 아이스크림 만들기"
 date:   2021-07-10 10:12:00 +0200
-categories: posts
+categories: recipe
 description: 비워둬도 좋습니다. 혹시라도 검색최적화(SEO)를 원한다면 채워넣는게 좋습니다.
 published: true
 ---
@@ -22,7 +22,7 @@ published: true
     <td>탐구 기간</td>
     <td style="width: 50%;" >7월 10일</td>
     <td style="width: 15%;" >탐구 주제</td>
-    <td style="width: 35%;" >깻잎 아이스크림  </td>
+    <td style="width: 20%;" >깻잎 아이스크림  </td>
   </tr>
   <tr>
     <td>탐구 주제</td>
@@ -30,7 +30,7 @@ published: true
   </tr>
   <tr>
     <td>탐구 자료</td>
-    <td colspan=3>https://www.youtube.com/watch?v=yB_f0595ytY&t=333s</td>
+    <td colspan=3><a href="https://www.youtube.com/watch?v=yB_f0595ytY&t=333s">https://www.youtube.com/watch?v=yB_f0595ytY&t=333s</a></td>
   </tr>
   <tr>
     <td colspan=4 style='text-align:center'>자유 탐구 활동 계획</td>
