@@ -3,25 +3,30 @@
 ---
 
 @import "minima";
-@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.css');
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard-dynamic-subset.css');
+@import "post-list";
 
 body {
-    font-family: Pretendard;
-    color: #424242;
-}
-
-strong {
-    font-weight: 600;
+    font-family: Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, 'Helvetica Neue', 'Segoe UI', 'Apple SD Gothic Neo', 'Noto Sans KR', 'Malgun Gothic', sans-serif;
 }
 
 .emphasizing-text {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-weight: 600;
+    font-style: italic;
+    font-weight: bold;
+    text-align: center; 
+}
+
+.margin-small {
+    margin: 10px;
+}
+
+.margin-middle {
+    margin: 20px;
 }
 
 .site-title {
-    @include relative-font-size(1.8);
-    font-weight: 200;
+    // @include relative-font-size(1.8);
+    font-weight: normal;
 
     &,
     &:visited {
@@ -29,45 +34,8 @@ strong {
     }
 }
 
-.post-wrapper {
-    text-align: center;
-}
-
-.post-list-heading {
-    font-weight: 200;
-}
-
-.post-meta {
-    font-weight: 200;
-}
-
-.post-link {
-    @include relative-font-size(1.2);
-} 
-
-.page-link {
-    font-weight: 200;
-
-    &,
-    &:visited {
-        color: #516593;
-    }
-}
-
-.post-title,
-.post-content h1,h2,h3,h4,h5,h6 {
-    font-weight: 200;
-}
-
-.footer-copyright {
-    @include relative-font-size(0.87);
-    color: $grey-color;
-    text-align: center;
-}
-
-.rss-subscribe {
-    font-weight: 200;
-    @include relative-font-size(0.87);
+blockquote {
+    @include relative-font-size(1);
 }
 
 a {
@@ -84,9 +52,17 @@ a {
     }
 }
 
-.copyleft {
-  display:inline-block;
-  transform: rotate(180deg);
+.post-title {
+    font-weight: bold;
+}
+
+.post-content {
+    font-weight: normal;
+}
+
+.rss-subscribe {
+    font-weight: 200;
+    @include relative-font-size(0.87);
 }
 
 .svg-icon {
