@@ -8,7 +8,6 @@ published: true
 ---
 
 
-![pakiuki_ivory](/asset/images/ivory_pakiuki1.png) 
 ![pakiuki_ivory](/asset/images/ivory_pakiuki.png) 
 
 **파테크**  
