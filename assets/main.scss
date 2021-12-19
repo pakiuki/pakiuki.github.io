@@ -39,6 +39,10 @@ blockquote {
     @include relative-font-size(1);
 }
 
+img {
+    margin: 10px;
+}
+
 a {
     & {
         color: #5366B2;
