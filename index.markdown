@@ -23,16 +23,18 @@ layout: default
     <tr>
       <td style="border: 1px solid transparent;">
         <p>→ {{ category_name }}</p>
-        <ul class="post-list">
+        <ul>
           {% for i in (0..4) %}
           {% assign post = category_posts[i] %}
-            <li>
-              <a class="post-link" href="{{ post.url | relative_url }}">
-                {{ post.title | escape }}
-              </a>
-            </li>
+          <li class="post-list-item-index">
+            <a href="{{ post.url | relative_url }}">
+              {{ post.title | escape }}
+            </a>
+          </li>
           {% endfor %}
-          <li><a href="{% link posts-interview.md %}">[더보기]</a></li>
+          <li class="post-list-item-index">
+            <a href="{% link posts-interview.md %}">[더보기]</a>
+          </li>
         </ul>
       </td>
     </tr>
