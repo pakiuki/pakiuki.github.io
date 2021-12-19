@@ -33,7 +33,7 @@ layout: default
           </li>
           {% endfor %}
           <li class="post-list-item-index">
-            <a href="{% link posts-interview.md %}">[더보기]</a>
+            <a href="{{ link }}">[더보기]</a>
           </li>
         </ul>
       </td>
