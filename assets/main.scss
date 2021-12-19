@@ -3,12 +3,19 @@
 ---
 
 @import "minima";
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.css');
 
 body {
+    font-family: Pretendard;
     color: #424242;
 }
 
 strong {
+    font-weight: 600;
+}
+
+.emphasizing-text {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: 600;
 }
 
