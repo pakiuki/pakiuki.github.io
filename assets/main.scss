@@ -25,7 +25,7 @@ body {
 }
 
 .site-title {
-    // @include relative-font-size(1.8);
+    @include relative-font-size(1.8);
     font-weight: normal;
 
     &,
