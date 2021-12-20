@@ -9,8 +9,8 @@ layout: default
 <table>
   <tr>
     <td style="border: 1px solid transparent;">
-      <p>→ 소개</p>
-      <p>본 연구 사업은 서울문화재단 생활문화팀의 <생활을 바꾸는 예술 2021> 탐색 지원금을 받아 진행했습니다.</p>
+      <p></p>
+      <p></p>
     </td>
   </tr>
   {% assign categories = "introduction|소개,interview|인터뷰,fieldwork|답사,recipe|레시피,journal|일지,read|읽기" | split: ',' %}
