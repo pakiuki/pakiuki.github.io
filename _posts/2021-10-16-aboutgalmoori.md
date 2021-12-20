@@ -2,7 +2,7 @@
 layout: post
 title:  "파키우기 프로젝트"
 date:   2021-10-16 10:23:00 +0200
-categories: posts
+categories: introduction
 description: 비워둬도 좋습니다. 혹시라도 검색최적화(SEO)를 원한다면 채워넣는게 좋습니다.
 published: true
 

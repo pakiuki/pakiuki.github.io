@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "파테크"
+title:  "파테크?"
 date:   2021-12-01 10:23:00 +0200
-categories: journal
+categories: introduction
 description: 비워둬도 좋습니다. 혹시라도 검색최적화(SEO)를 원한다면 채워넣는게 좋습니다.
 published: true
 ---

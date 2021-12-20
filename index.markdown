@@ -13,7 +13,7 @@ layout: default
       <p>본 연구 사업은 서울문화재단 생활문화팀의 <생활을 바꾸는 예술 2021> 탐색 지원금을 받아 진행했습니다.</p>
     </td>
   </tr>
-  {% assign categories = "interview|인터뷰,fieldwork|답사,recipe|레시피,journal|일지,read|읽기" | split: ',' %}
+  {% assign categories = "introduction|소개,interview|인터뷰,fieldwork|답사,recipe|레시피,journal|일지,read|읽기" | split: ',' %}
   {% for category in categories %}
     {% assign category_split = category | split: '|' %}
     {% assign category_id = category_split[0] %}
