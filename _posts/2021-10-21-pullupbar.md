@@ -2,7 +2,7 @@
 layout: post
 title:  "철봉과 평행봉"
 date:   2021-10-21 10:12:00 +0200
-categories: posts
+categories: journal
 description: 비워둬도 좋습니다. 혹시라도 검색최적화(SEO)를 원한다면 채워넣는게 좋습니다.
 published: true
 ---

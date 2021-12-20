@@ -2,7 +2,7 @@
 layout: post
 title:  "샘플 포스팅"
 date:   2021-10-10 12:55:00 +0200
-categories: posts
+categories: howto
 description: 비워둬도 좋습니다. 혹시라도 검색최적화(SEO)를 원한다면 채워넣는게 좋습니다.
 published: true
 ---
@@ -56,6 +56,13 @@ HTML로 유튜브 영상 삽입하기.
 <u>밑줄</u>을 사용하려면 HTML 태그 \<u\>를 사용합니다.
 
 Markdown은 \<와 \>는 HTML을 위한 특수기호로 인식을 합니다. 이걸 문자 그대로 사용하려면 \\\< 또는 \\\>을 입력하면 됩니다.
+
+<div style="font-family:Pretendard">아래는 CSS에서 정의한 새로운 class 스타일을 사용하는 예제입니다.</div>
+<div class="emphasizing-text">
+이 문장은 강조 구문입니다.
+</div>
+
+<p/>
 
 
 > 사진과 인용이 있다고 해서 인터넷에서 읽은 모든 것은 그대로 믿지 말라. -아브라함 링컨

@@ -2,7 +2,7 @@
 layout: post
 title:  "깻잎참치마요 김밥"
 date:   2021-07-29 10:12:00 +0200
-categories: posts
+categories: recipe
 description: 비워둬도 좋습니다. 혹시라도 검색최적화(SEO)를 원한다면 채워넣는게 좋습니다.
 published: true
 ---
@@ -10,9 +10,9 @@ published: true
 **자유탐구활동 보고서 1**     
 
 
-\<머리글\>
+<머리글>  
 
-<u>탐구자: 홍남명  </u>
+탐구자: 홍남명  
 
 탐구  주제: 깻잎 참치마요 김밥  
 
@@ -21,7 +21,6 @@ published: true
 탐구 장소: 집  
 
 탐구 자료: 없음  
-
  
 <본문>    
 

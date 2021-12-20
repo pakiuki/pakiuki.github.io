@@ -1,0 +1,24 @@
+.post-wrapper {
+    text-align: center;
+}
+
+.post-list-heading {
+    font-weight: 200;
+}
+
+.post-meta {
+    font-weight: 200;
+}
+
+.post-link {
+    @include relative-font-size(1.2);
+} 
+
+.page-link {
+    font-weight: 200;
+
+    &,
+    &:visited {
+        color: #516593;
+    }
+}

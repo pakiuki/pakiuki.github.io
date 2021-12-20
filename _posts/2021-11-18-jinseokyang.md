@@ -2,7 +2,7 @@
 layout: post
 title:  "한국농촌경제연구원 농업관측센터 양념채소팀"
 date:   2021-11-17 17:23:00 +0200
-categories: posts
+categories: interview
 description: 비워둬도 좋습니다. 혹시라도 검색최적화(SEO)를 원한다면 채워넣는게 좋습니다.
 published: true
 ---  
