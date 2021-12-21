@@ -6,8 +6,7 @@ categories: recipe
 description: 비워둬도 좋습니다. 혹시라도 검색최적화(SEO)를 원한다면 채워넣는게 좋습니다.
 published: true
 ---
-
-**자유탐구활동 보고서 1**     
+<h1 style='text-align:center;font-weight:bold;'>자유탐구활동 보고서 1</h1>  
 
 
 <머리글>  
