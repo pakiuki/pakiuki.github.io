@@ -24,10 +24,7 @@ published: true
     <td style="width: 15%;" >탐구 장소</td>
     <td style="width: 20%;" >집 </td>
   </tr>
-  <tr>
-    <td>탐구 주제</td>
-    <td colspan=3>깻잎 고명 콩국수 </td>
-  </tr>
+
   <tr>
     <td>탐구 자료</td>
     <td colspan=3><a href="https://youtu.be/uHlAIEXMF0Q">https://youtu.be/uHlAIEXMF0Q</a></td>
