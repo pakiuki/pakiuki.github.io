@@ -1,0 +1,150 @@
+---
+layout: post
+title:  "자유탐구활동 견본"
+date:   2021-12-22 10:12:00 +0200
+categories: recipe
+description: 비워둬도 좋습니다. 혹시라도 검색최적화(SEO)를 원한다면 채워넣는게 좋습니다.
+published: true
+---
+ 
+<h1 style='text-align:center;font-weight:bold;'>자유탐구활동 보고서 1</h1>
+
+<table>
+  <tr>
+    <td style="width: 15%;">탐구자</td>
+    <td style="width: 85%;" colspan=3>홍남명</td>
+  </tr>
+  <tr>
+    <td>탐구 주제</td>
+    <td colspan=3> </td>
+  </tr>
+  <tr>
+    <td>탐구 기간</td>
+    <td style="width: 50%;" >0월 0일</td>
+    <td style="width: 15%;" >탐구 주제</td>
+    <td style="width: 20%;" >깻잎 00 </td>
+  </tr>
+  <tr>
+    <td>탐구 주제</td>
+    <td colspan=3>깻잎 00 </td>
+  </tr>
+  <tr>
+    <td>탐구 자료</td>
+    <td colspan=3><a href="https://www.youtube.com/watch?v=yB_f0595ytY&t=333s">https://www.youtube.com/watch?v=yB_f0595ytY&t=333s</a></td>
+  </tr>
+  <tr>
+    <td colspan=4 style='text-align:center'>자유 탐구 활동 계획</td>
+  </tr>
+  <tr>
+    <td>탐구를 하게 된 까닭</td>
+    <td colspan=3>00</td>
+  </tr>
+  <tr>
+    <td>탐구 활동 계획 (방법)</td>
+    <td colspan=3>
+    00</td>
+  </tr>
+  <tr>
+    <td>나의 예상</td>
+    <td colspan=3>00</td>
+  </tr>
+</table>
+   
+<h1 style='text-align:center;font-weight:bold;'>자유탐구활동 보고서 2</h1> 
+
+<table>
+  <tr>
+    <td style="width: 15%;">자유탐구주제</td>
+    <td style="width: 85%;" colspan=3>깻잎 아이스크림</td>
+  </tr>
+  <tr>
+    <td style="width: 15%;">탐구기간</td>
+    <td style="width: 35%;">7월 10일~7월 16일</td>
+    <td style="width: 15%;">탐구자</td>
+    <td style="width: 35%;">홍남명</td>
+  </tr>
+  <tr>
+    <td colspan=4> 자유 탐구 활동 내용 (글, 그림, 사진, 표, 그래프 등)</td>
+  </tr>
+  <tr>
+    <td colspan=4>탐구 활동 계획 (방법)</td>
+  </tr>
+  <tr>
+     <td colspan=2>
+       <p align="center">
+     <img src="/asset/images/perilla-ice-cream_ricepowder.jpg" width="200px" />
+     </p>
+     </td>
+     <td colspan=2>
+     <p align="center">
+     <img src="/asset/images/perilla-ice-cream_size.jpg" width="200px" />
+     </p>
+     </td>
+  </tr>
+  <tr>
+  <td colspan=4>
+     준비물을 마련한다. 유통기한 지나기 일보직전인 쌀가루, 설탕, 오틀리 오트밀우유, 그리고 깻잎. 깻잎의 크기가 매우 커져서 내 큰 얼굴을 가릴 수 있을 정도가 되었다. </td>
+  </tr>
+  <tr>
+    <td colspan=4>
+     <p align="left">
+     <img src="/asset/images/00.jpg" width="200px" />
+     </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan=4>
+    00
+    </td>
+  </tr>
+  <tr>
+   <td colspan=2> 
+     <p align="center">
+     <img src="/asset/images/00.jpg" width="200px" />
+     </p>
+   </td>
+   <td colspan=2> 
+     <p align="center">
+     <img src="/asset/images/perilla-ice-cream_mixture.jpg" width="200px" />
+     </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan=4> 
+    00
+    </td>
+  </tr>
+  <tr>
+   <td colspan=4> 
+     <p align="center">
+     <img src="/asset/images/00.jpg" width="200px" />
+     </p>
+   </td>
+  </tr>
+  <tr>
+   <td colspan=4> 
+    00 
+   </td>
+  </tr>
+
+  <tr>
+    <td style="width: 15%;">탐구 활동 결과</td>
+    <td style="width: 85%;" colspan=3> 00 </td>
+  </tr>
+  <tr>
+    <td style="width: 15%;">의문점 및 더 알고 싶은 점</td>
+    <td style="width: 85%;" colspan=3> 00 </td>
+  </tr>
+  <tr>
+    <td style="width: 15%;">참고한 책</td>
+    <td style="width: 85%;" colspan=3> 인터넷 사이트: 00 </td>
+  </tr>
+  <tr>
+    <td style="width: 15%;">자기평가(o)</td>
+    <td style="width: 85%;" colspan=3> 상 (중) 하 </td>
+  </tr>
+  <tr>
+    <td style="width: 15%;">반성 및 평가 내용</td>
+    <td style="width: 85%;" colspan=3> 00 </td>
+  </tr>
+</table>
