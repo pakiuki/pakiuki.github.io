@@ -83,7 +83,7 @@ published: true
   </tr>
   <tr>
     <td colspan=4>
-     <p align="left">
+     <p align="center">
      <img src="/asset/images/perilla-ice-cream_boiling.jpg" width="200px" />
      </p>
      </td>
@@ -96,7 +96,7 @@ published: true
   
   <tr>
    <td colspan=2> 
-     <p align="left">
+     <p align="center">
      <img src="/asset/images/perilla-ice-cream_mixing.jpg" width="200px" />
      </p>
    </td>

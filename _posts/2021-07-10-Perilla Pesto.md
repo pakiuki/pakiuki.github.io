@@ -20,9 +20,9 @@ published: true
   </tr>
   <tr>
     <td>탐구 기간</td>
-    <td style="width: 50%;" >7월 8일</td>
+    <td style="width: 35%;" >7월 8일</td>
     <td style="width: 15%;" >탐구 장소</td>
-    <td style="width: 20%;" >집 </td>
+    <td style="width: 35%;" >집 </td>
   </tr>
   <tr>
     <td>탐구 자료</td>
