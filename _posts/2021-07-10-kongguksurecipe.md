@@ -16,13 +16,13 @@ published: true
   </tr>
   <tr>
     <td>탐구 주제</td>
-    <td colspan=3> </td>
+    <td colspan=3>깻잎 고명 콩국수 </td>
   </tr>
   <tr>
     <td>탐구 기간</td>
     <td style="width: 50%;" >7월 15일</td>
-    <td style="width: 15%;" >탐구 주제</td>
-    <td style="width: 20%;" >깻잎 고명 콩국수 </td>
+    <td style="width: 15%;" >탐구 장소</td>
+    <td style="width: 20%;" >집 </td>
   </tr>
   <tr>
     <td>탐구 주제</td>
