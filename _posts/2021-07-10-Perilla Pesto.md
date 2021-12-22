@@ -16,7 +16,7 @@ published: true
   </tr>
   <tr>
     <td>탐구 주제</td>
-    <td colspan=3>깻잎 페스토 </td>
+    <td style="width: 85%;" colspan=3>깻잎 페스토 </td>
   </tr>
   <tr>
     <td>탐구 기간</td>
@@ -50,7 +50,7 @@ published: true
 
 <table>
   <tr>
-    <td style="width: 15%;">자유탐구주제</td>
+    <td style="width: 15%;" colspan=1>자유탐구주제</td>
     <td style="width: 85%;" colspan=3>깻잎 페스토</td>
   </tr>
   <tr>
