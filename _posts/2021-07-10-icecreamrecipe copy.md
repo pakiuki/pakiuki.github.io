@@ -55,11 +55,11 @@ published: true
 <table>
   <tr>
     <td style="width: 15%;">자유탐구주제</td>
-    <td style="width: 85%;" colspan=3>깻잎 아이스크림</td>
+    <td style="width: 85%;" colspan=3>깻잎 00</td>
   </tr>
   <tr>
     <td style="width: 15%;">탐구기간</td>
-    <td style="width: 35%;">7월 10일~7월 16일</td>
+    <td style="width: 35%;">0월 0일~0월 0일</td>
     <td style="width: 15%;">탐구자</td>
     <td style="width: 35%;">홍남명</td>
   </tr>
@@ -72,12 +72,12 @@ published: true
   <tr>
      <td colspan=2>
        <p align="center">
-     <img src="/asset/images/perilla-ice-cream_ricepowder.jpg" width="200px" />
+     <img src="/asset/images/00.jpg" width="200px" />
      </p>
      </td>
      <td colspan=2>
      <p align="center">
-     <img src="/asset/images/perilla-ice-cream_size.jpg" width="200px" />
+     <img src="/asset/images/00.jpg" width="200px" />
      </p>
      </td>
   </tr>
@@ -105,7 +105,7 @@ published: true
    </td>
    <td colspan=2> 
      <p align="center">
-     <img src="/asset/images/perilla-ice-cream_mixture.jpg" width="200px" />
+     <img src="/asset/images/00.jpg" width="200px" />
      </p>
     </td>
   </tr>
