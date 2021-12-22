@@ -124,7 +124,7 @@ published: true
   <tr>
    <td colspan=2> 
      <p align="center">
-     <img src="/asset/images/perilla-pesto_7_boil-past.jpg" width="200px" />
+     <img src="/asset/images/perilla-pesto_7_boil-pasta.jpg" width="200px" />
      </p>
    </td>
    <td colspan=2> 
