@@ -95,17 +95,19 @@ published: true
     </td>
   </tr>
   <tr>
-    <td style="width: 30%;" colspan=1>
+    <td  colspan=2>
      <p align="center">
      <img src="/asset/images/perilla-pesto_6_add-cheese2.jpg" width="200px" />
      </p>
     </td>
-    <td style="width: 30%;" colspan=1>
+    <td  colspan=2>
      <p align="center">
      <img src="/asset/images/perilla-pesto_8_mix-it-all.jpg" width="200px" />
      </p>
     </td>
-    <td style="width: 30%;" colspan=1>
+   </tr>
+   <tr>
+    <td colspan=4>
      <p align="center">
      <img src="/asset/images/perilla-pesto_9_add-some-oil.jpg" width="200px" />
      </p>
