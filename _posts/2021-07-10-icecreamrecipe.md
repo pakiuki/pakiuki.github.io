@@ -67,7 +67,7 @@ published: true
     <td colspan=4> 자유 탐구 활동 내용 (글, 그림, 사진, 표, 그래프 등)</td>
   </tr>
   <tr>
-    <td>탐구 활동 계획 (방법)</td>
+    <td colspan=4>탐구 활동 계획 (방법)</td>
   </tr>
   <tr>
     <td colspan=4>
@@ -105,7 +105,7 @@ published: true
     며칠 뒤 독일 친구를 불러서 한번 주었다. 깻잎 어린 잎을 올리면 민트와 모양이 흡사하고 매우 귀여웠다. 친구는 매우 건강한 맛이라고 해주었다. 칭찬일까? </td>
   </td>
   </tr>
-  
+
   <tr>
     <td style="width: 15%;">탐구 활동 결과</td>
     <td style="width: 85%;" colspan=3> 예상과는 다르지만 그래도 아이스크림의 형태는 만들어졌다. 하지만 맛은 아쉽다. </td>
