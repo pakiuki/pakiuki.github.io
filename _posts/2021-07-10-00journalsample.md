@@ -17,7 +17,7 @@ published: true
     <td style="width: 15%;" >날씨</td>
     <td style="width: 35%;" >&#127780; &#127781; &#127783; &#127784; () </td>
   </tr>
-  <tr> <td> 00 이미지00 </td></tr>
+  <tr><td colspan=4> 00 이미지00 </td></tr>
   <tr><td colspan=4 class="notes">가나다라마바사 아자차카타파하 가나다라마바사 아자차카타파하 가나다라마바사 아자차카타파하 가나다라마바사 아자차카타파하</td></tr>
 </table>
 
