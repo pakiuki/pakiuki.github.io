@@ -7,9 +7,9 @@ description: 비워둬도 좋습니다. 혹시라도 검색최적화(SEO)를 원
 published: true
 ---
 목차  
-[(1)대파 농사 개론](/_posts/2021-08-22-farmingscallion1.md)  
-[(2)대파 생산량과 가격-작년 기후에 부쳐](/_posts/2021-08-22-farmingscallion2.md)  
-[(3)대파 가정 재배 및 보관 요령](/_posts/2021-08-22-farmingscallion3.md)   
+[(1)대파 농사 개론](https://pakiuki.github.io/interview/2021/08/22/farmingscallion1.html)  
+[(2)대파 생산량과 가격-작년 기후에 부쳐](https://pakiuki.github.io/interview/2021/08/22/farmingscallion2.html)  
+[(3)대파 가정 재배 및 보관 요령](https://pakiuki.github.io/interview/2021/08/22/farmingscallion3.html)   
 
 **갈무리팀: 작년에 장마가 좀 50일 정도로 길었죠. 농사가 기후의 영향을 많이 받았을 것 같아요.**  
    
