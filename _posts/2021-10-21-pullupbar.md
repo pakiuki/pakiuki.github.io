@@ -14,7 +14,7 @@ published: true
     <td style="width: 15%;" >날짜</td>
     <td style="width: 35%;" >10월 21일</td>
     <td style="width: 15%;" >날씨</td>
-    <td style="width: 35%;" >(&#127780); &#127781; &#127783; &#127784; </td>
+    <td style="width: 35%;" >&#127780; &#127781; &#127783; &#127784; </td>
   </tr>
   <tr><td colspan=4> <img src="/asset/images/pull.png" width="300px" /><img src="/asset/images/kitty.png" width="300px" /> </td></tr>
   <tr><td colspan=4> 주제: 철봉과 평행봉 </td></tr>

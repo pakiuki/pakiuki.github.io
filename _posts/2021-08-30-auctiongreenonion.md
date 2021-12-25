@@ -13,7 +13,7 @@ published: true
     <td style="width: 15%;" >날짜</td>
     <td style="width: 35%;" >08월 30일</td>
     <td style="width: 15%;" >날씨</td>
-    <td style="width: 35%;" >(&#127780); &#127781; &#127783; &#127784; </td>
+    <td style="width: 35%;" >&#127780; &#127781; &#127783; &#127784; </td>
   </tr>
   <tr><td colspan=4> <img src="/asset/images/auction1.png" width="300px" /><img src="/asset/images/auction2.png" width="300px" /> <img src="/asset/images/auction3.png" width="300px" /><img src="/asset/images/auction4.png" width="300px" /><img src="/asset/images/auction5.png" width="300px" /><img src="/asset/images/auction6.png" width="300px" /></td></tr>
   <tr><td colspan=4> 주제: 가락시장 대파 경매소 답사 </td></tr>
