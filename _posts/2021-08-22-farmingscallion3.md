@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "차재준: 대파 가정 재배 및 보관 요령"
-date:   2021-11-01 13:12:00 +0200
+date:   2021-08-22 12:00:00 +0200
 categories: interview
 description: 비워둬도 좋습니다. 혹시라도 검색최적화(SEO)를 원한다면 채워넣는게 좋습니다.
 published: true
