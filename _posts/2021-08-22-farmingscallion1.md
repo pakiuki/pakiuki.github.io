@@ -1,11 +1,15 @@
 ---
 layout: post
-title:  "차재준: 대파농사 개론"
+title:  "차재준: 대파 농사 개론"
 date:   2021-08-22 10:00:00 +0200
 categories: interview
 description: 비워둬도 좋습니다. 혹시라도 검색최적화(SEO)를 원한다면 채워넣는게 좋습니다.
 published: true
 ---
+목차  
+[(1)대파 농사 개론](/_posts/2021-08-22-farmingscallion1.md)  
+[(2)대파 생산량과 가격-작년 기후에 부쳐](/_posts/2021-08-22-farmingscallion2.md)  
+[(3)대파 가정 재배 및 보관 요령](/_posts/2021-08-22-farmingscallion3.md)   
 
 갈무리팀과 농부 차재준은 여름의 가뭄과 가을 장마에 대해 이야기하며 본격적으로 파농사에 대한 문답을 시작했다.  
  

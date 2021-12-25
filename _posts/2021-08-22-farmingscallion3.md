@@ -6,7 +6,10 @@ categories: interview
 description: 비워둬도 좋습니다. 혹시라도 검색최적화(SEO)를 원한다면 채워넣는게 좋습니다.
 published: true
 ---
-
+목차  
+[(1)대파 농사 개론](/_posts/2021-08-22-farmingscallion1.md)  
+[(2)대파 생산량과 가격-작년 기후에 부쳐](/_posts/2021-08-22-farmingscallion2.md)  
+[(3)대파 가정 재배 및 보관 요령](/_posts/2021-08-22-farmingscallion3.md)   
 **갈무리팀: 사람들이 요즘에 집에서 작물을 가꿔요. 사람들이 파 값이 비싸다고 키우기 시작했어요. 실은 그게 좀 문제도 많고 탈도 많아요. 그래서 저희도 한번 파를 사서 흙에 꽂았어요. 그런데 잘 안 자라더라고요.**  
    
 차재준:  
