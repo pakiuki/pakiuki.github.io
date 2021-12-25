@@ -7,12 +7,20 @@ description: 비워둬도 좋습니다. 혹시라도 검색최적화(SEO)를 원
 published: true
 ---
 
-가락시장에서는 크게 청과, 수산물로 농수산품을 분류하여 정해진 시간마다 경매를 진행하고 있다.  
-그 중 대파 경매는 주중 오후 8시 30분마다 시작한다.  
+<table>
 
-![wholesale_auction](/asset/images/auction1.png) 
-![wholesale_auction](/asset/images/auction2.png) 
-![wholesale_auction](/asset/images/auction3.png) 
-![wholesale_auction](/asset/images/auction4.png) 
-![wholesale_auction](/asset/images/auction5.png) 
-![wholesale_auction](/asset/images/auction6.png) 
+  <tr>
+    <td style="width: 15%;" >날짜</td>
+    <td style="width: 35%;" >08월 30일</td>
+    <td style="width: 15%;" >날씨</td>
+    <td style="width: 35%;" >(&#127780); &#127781; &#127783; &#127784; </td>
+  </tr>
+  <tr><td colspan=4> <img src="/asset/images/auction1.png" width="300px" /><img src="/asset/images/auction2.png" width="300px" /> <img src="/asset/images/auction3.png" width="300px" /><img src="/asset/images/auction4.png" width="300px" /><img src="/asset/images/auction5.png" width="300px" /><img src="/asset/images/auction6.png" width="300px" /></td></tr>
+  <tr><td colspan=4> 주제: 가락시장 대파 경매소 답사 </td></tr>
+  <tr><td colspan=4 class="notes">
+
+<p>가락시장에서는 크게 청과, 수산물로 농수산품을 분류하여 정해진 시간마다 경매를 진행하고 있다.  
+그 중 대파 경매는 주중 오후 8시 30분마다 시작한다.  </p> </td></tr>
+</table>
+
+
