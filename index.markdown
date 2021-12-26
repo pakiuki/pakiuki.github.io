@@ -32,7 +32,7 @@ layout: default
             </a>
           </li>
           {% endfor %}
-          <li class="post-list-item-index">
+          <li class="post-list-item-index-more">
             <a href="{{ link }}">더보기</a>
           </li>
         </ul>
