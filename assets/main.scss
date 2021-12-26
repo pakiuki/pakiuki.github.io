@@ -3,7 +3,7 @@
 ---
 
 @import "minima";
-@import "{{ site.theme }}";
+@import "site.theme";
 @import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard-dynamic-subset.css');
 @import "post-list";
 @import "post-list-index";
