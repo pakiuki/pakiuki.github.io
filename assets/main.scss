@@ -32,7 +32,7 @@ body {
 }
 
 .site-title {
-    @include relative-font-size(1);
+    @include relative-font-size(1.2);
     font-weight: normal;
 
     &,
