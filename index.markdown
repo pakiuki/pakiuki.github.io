@@ -33,7 +33,7 @@ layout: default
           </li>
           {% endfor %}
           <li class="post-list-item-index">
-            <a href="{{ link }}"><font size="0.87em">[더보기]</a></font>
+            <a href="{{ link }}">[더보기]</a>
           </li>
         </ul>
       </td>
