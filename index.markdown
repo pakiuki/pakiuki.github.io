@@ -32,8 +32,8 @@ layout: default
             </a>
           </li>
           {% endfor %}
-          <li>
-            <a href="{{ link }}">[더보기]</a>
+          <li class=".post-list-item-more">
+            <a href="{{ link }}">더보기</a>
           </li>
         </ul>
       </td>
