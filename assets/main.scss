@@ -6,6 +6,8 @@
 @import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard-dynamic-subset.css');
 @import "post-list";
 @import "post-list-index";
+@import "post-list-index-more";
+
 
 body {
     font-family: Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, 'Helvetica Neue', 'Segoe UI', 'Apple SD Gothic Neo', 'Noto Sans KR', 'Malgun Gothic', sans-serif;
@@ -25,8 +27,13 @@ body {
     margin: 20px;
 }
 
+.site-header {
+    border-top: 0px #ffffff;
+    border-bottom: 0px #ffffff;
+}
+
 .site-title {
-    @include relative-font-size(1);
+    @include relative-font-size(1.2);
     font-weight: normal;
 
     &,
@@ -58,7 +65,7 @@ a {
 }
 
 .post-title {
-    @include relative-font-size(1.8);
+    @include relative-font-size(1.2);
     font-weight: bold;
 }
 
