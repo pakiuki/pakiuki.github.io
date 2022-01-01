@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "깻잎 스케치"
-date:   2021-04-20 10:12:00 +0200
+date:   2022-01-01 10:12:00 +0200
 categories: journal
 description: 비워둬도 좋습니다. 혹시라도 검색최적화(SEO)를 원한다면 채워넣는게 좋습니다.
 published: true
