@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "베를린의 봄눈"
+title:  "4월 6일 베를린의 봄눈 밖"
 date:   2021-04-06 10:13:00 +0200
 categories: journal
 description: 비워둬도 좋습니다. 혹시라도 검색최적화(SEO)를 원한다면 채워넣는게 좋습니다.
