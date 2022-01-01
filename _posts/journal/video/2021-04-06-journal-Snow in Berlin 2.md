@@ -13,7 +13,7 @@ published: true
 
   <tr>
     <td style="width: 15%;" >날짜</td>
-    <td style="width: 35%;" >3월 19일</td>
+    <td style="width: 35%;" >4월 06일</td>
     <td style="width: 15%;" >날씨</td>
     <td style="width: 35%;" >&#127781; </td>
   </tr>

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "베를린의 봄 그리고 토끼"
+title:  "4월 12일 베를린의 봄 그리고 토끼"
 date:   2021-04-12 10:13:00 +0200
 categories: journal
 description: 비워둬도 좋습니다. 혹시라도 검색최적화(SEO)를 원한다면 채워넣는게 좋습니다.
@@ -13,7 +13,7 @@ published: true
 
   <tr>
     <td style="width: 15%;" >날짜</td>
-    <td style="width: 35%;" >3월 19일</td>
+    <td style="width: 35%;" >4월 12일</td>
     <td style="width: 15%;" >날씨</td>
     <td style="width: 35%;" >&#127781; </td>
   </tr>
