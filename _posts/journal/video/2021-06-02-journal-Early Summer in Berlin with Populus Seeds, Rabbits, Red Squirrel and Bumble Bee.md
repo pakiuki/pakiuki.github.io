@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "6월 베를린의 초여름, 포플러 나무, 토끼, 청설모 깻잎 그리고 호박벌"
+title:  "베를린의 초여름"
 date:   2021-06-02 10:13:00 +0200
 categories: journal
 description: 비워둬도 좋습니다. 혹시라도 검색최적화(SEO)를 원한다면 채워넣는게 좋습니다.

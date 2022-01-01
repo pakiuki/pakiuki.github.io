@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "4월과 5월 베를린의 봄, 토끼와 애벌레"
+title:  "베를린의 봄"
 date:   2021-04-12 10:13:00 +0200
 categories: journal
 description: 비워둬도 좋습니다. 혹시라도 검색최적화(SEO)를 원한다면 채워넣는게 좋습니다.
