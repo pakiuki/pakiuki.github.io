@@ -13,7 +13,7 @@ published: true
 
   <tr>
     <td style="width: 15%;" >날짜</td>
-    <td style="width: 35%;" >5월 30일</td>
+    <td style="width: 35%;" >6월 15일</td>
     <td style="width: 15%;" >날씨</td>
     <td style="width: 35%;" >&#127781; </td>
   </tr>
