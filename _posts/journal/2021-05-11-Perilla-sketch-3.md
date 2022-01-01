@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "일지 견본"
-date:   2021-07-10 10:12:00 +0200
+title:  "깻잎 떡잎"
+date:   2021-05-11 10:12:00 +0200
 categories: journal
 description: 비워둬도 좋습니다. 혹시라도 검색최적화(SEO)를 원한다면 채워넣는게 좋습니다.
 published: false
@@ -13,13 +13,15 @@ published: false
 
   <tr>
     <td style="width: 15%;" >날짜</td>
-    <td style="width: 35%;" >0월 0일</td>
+    <td style="width: 35%;" >5월 11일</td>
     <td style="width: 15%;" >날씨</td>
-    <td style="width: 35%;" >&#127780; &#127781; &#127783; &#127784; () </td>
+    <td style="width: 35%;" >&#127780;</td>
   </tr>
-  <tr><td colspan=4> 이미지 </td></tr>
-  <tr><td colspan=4> 주제: 00 </td></tr>
-  <tr><td colspan=4 class="notes">가나다라마바사 아자차카타파하 가나다라마바사 아자차카타파하 가나다라마바사 아자차카타파하 가나다라마바사 아자차카타파하 가나다라마바사 아자차카타파하가나다라마바사 아자차카타파하가나다라마바사 아자차카타파하가나다라마바사 아자차카타파하가나다라마바사 아자차카타파하가나다라마바사 아자차카타파하가나다라마바사 아자차카타파하가나다라마바사 아자차카타파하가나다라마바사 아자차카타파하가나다라마바사 아자차카타파하</td></tr>
+  <tr><td colspan=4> <p align="center">
+     <img src="/asset/images/perilla-sketch-03.jpg" width="200px" />
+     </p> </td></tr>
+  <tr><td colspan=4> 주제: 깻잎 떡잎 </td></tr>
+  <tr><td colspan=4 class="notes">색연필로 작게 그린 뒤 확대해서 디테일해 보이지 않는다.</td></tr>
 </table>
 
 
