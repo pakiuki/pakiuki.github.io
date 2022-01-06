@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "자유탐구활동: 파오리 탕"
+title:  "파오리 탕"
 date:   2021-12-31 10:12:00 +0200
 categories: recipe
 description: 비워둬도 좋습니다. 혹시라도 검색최적화(SEO)를 원한다면 채워넣는게 좋습니다.
