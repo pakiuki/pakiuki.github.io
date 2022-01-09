@@ -10,7 +10,7 @@ layout: default
   <tr>
     <td style="border: 1px solid transparent;">
       <p align="center">
-  <img src="/asset/images/pakiuki_hori_leaf.jpg" width="600px" />
+  <img src="/asset/images/pakiuki_hori_leaf.png" width="400px" />
 </p>
       <p></p>
     </td>
