@@ -9,7 +9,9 @@ layout: default
 <table>
   <tr>
     <td style="border: 1px solid transparent;">
-      <p></p>
+      <p align="center">
+  <img src="/asset/images/pakiuki_hori_leaf.jpg" width="600px" />
+</p>
       <p></p>
     </td>
   </tr>
