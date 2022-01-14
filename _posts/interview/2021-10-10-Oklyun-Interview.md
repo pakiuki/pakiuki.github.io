@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "옥련: 베를린의 텃밭에 대하여 1"
+title: "옥련: 독일에서 텃밭을 가꾸게 된 계기"
 date: 2021-10-10 10:23:00 +0200
 categories: interview
 description: 비워둬도 좋습니다. 혹시라도 검색최적화(SEO)를 원한다면 채워넣는게 좋습니다.
