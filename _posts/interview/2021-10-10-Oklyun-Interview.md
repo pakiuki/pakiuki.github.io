@@ -8,7 +8,7 @@ published: true
 ---
 목차  
 [(1)독일에서 텃밭을 가꾸게 된 계기](http://pakiuki.github.io/interview/2021/10/10/Oklyun-Interview.html)  
-[(2)베를린에서 한국 작물 기르기](http://pakiuki.githyb.io/interview/2021/10/10/Oklyun-Interview_2.html)  
+[(2)베를린에서 한국 작물 기르기](http://pakiuki.github.io/interview/2021/10/10/Oklyun-Interview_2.html)  
  
  
 - 10월의 추운 어느 날. 옥련 님은 정원에 들어가기 전에 벌에 쏘이지 않기 위해 꼭 양말과 장갑을 신으라고 알려주셨다.

@@ -8,7 +8,7 @@ published: true
 ---
 목차  
 [(1)독일에서 텃밭을 가꾸게 된 계기](http://pakiuki.github.io/interview/2021/10/10/Oklyun-Interview.html)  
-[(2)베를린에서 한국 작물 기르기](http://pakiuki.githyb.io/interview/2021/10/10/Oklyun-Interview_2.html)  
+[(2)베를린에서 한국 작물 기르기](http://pakiuki.github.io/interview/2021/10/10/Oklyun-Interview_2.html)  
  
  - 옥련의 이야기: 3. 정원 가꾸기 - 아시아 채소
  
