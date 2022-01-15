@@ -29,13 +29,11 @@ url: "https://pakiuki.github.io" # the base hostname & protocol for your site, e
 
 header_pages:
   - about.markdown
-  - posts-dialogue.md
   - posts-interview.md
   - posts-fieldwork.md
   - posts-recipe.md
   - posts-journal.md
   - posts-read.md
-  - posts-howto.md
 
 # Build settings
 theme: minima
