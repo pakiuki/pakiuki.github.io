@@ -11,14 +11,14 @@ published: true
 [(2)베를린에서 한국 작물 기르기](http://pakiuki.github.io/interview/2021/10/10/Oklyun-Interview_2.html)  
 
  <p align="center">
-  <img src="/asset/images/interviews/Oklyun/Oklyun Interview (1).jpg" />
-  <img src="/asset/images/interviews/Oklyun/Oklyun Interview (2).jpg" />
+  <img src="/asset/images/interviews/Oklyun/Oklyun Interview (1).jpg" width="500px"/>
+  <img src="/asset/images/interviews/Oklyun/Oklyun Interview (2).jpg" width="500px"/>
 </p>
 <p align="center">
 
  <p align="center">
-  <img src="/asset/images/interviews/Oklyun/Oklyun Interview (3).jpg" />
-  <img src="/asset/images/interviews/Oklyun/Oklyun Interview (7).jpg" />
+  <img src="/asset/images/interviews/Oklyun/Oklyun Interview (3).jpg" width="500px"/>
+  <img src="/asset/images/interviews/Oklyun/Oklyun Interview (7).jpg" width="500px"/>
 </p>
 <p align="center">
 
@@ -95,14 +95,14 @@ published: true
 
  <br>
 옥련: 나는 그냥 앉아서 얘기하는 것보다는 왔다 갔다 하면서 얘기하고 싶어. 한 테마를 끝까지 얘기하면 좀 딱딱해. 그래서 뭔가 그냥 자유롭게 얘기할 거니까.
+
+<br>
  
 ***- 옥련의 이야기: 1. 독일의 정원사庭園史***
 
  <br>
 시작한 해는 2011년. 베를린의 각처에 있는 가르텐콜로니(Gartenkolonien, 직역: 정원 모임) 탐색을 했어요. 소위 한국에서는 주말 농장인데요, 여기선 (정확하게는) 그 뜻은 아니에요. 물론 주말에 제일 많이 이용하지만. 슈레버가르텐(Schrebegarten, 직역: 작은 정원)은 도시 안에 있어요. <br>
-1919년까지 거슬러 가요. 백 년 전에 바이마르 공화국이 패전 후에 
-
-**시민들이 자급자족할 수 있도록 도시 속에서 땅을 보급한 농업 복지 프로그램 중 하나예요. 클라인가르텐(Kleingarten, 직역: 작은 정원)이라고도 해요.**
+1919년까지 거슬러 가요. 백 년 전에 바이마르 공화국이 패전 후에 **시민들이 자급자족할 수 있도록 도시 속에서 땅을 보급한 농업 복지 프로그램 중 하나예요. 클라인가르텐(Kleingarten, 직역: 작은 정원)이라고도 해요.**
 
 <br>
 동·서독이 나눠지고 난 후에 동과 서에서 가르텐을 이용하는 모양새가 차이가 난 거예요. 동독에서는 서쪽에 비해서 물자 공급이 원활하지 못했잖아요. 가르텐을 이용해서 채소를 가꾸고 자급자족하도록 발전시킨 거예요.
@@ -116,14 +116,11 @@ published: true
 
 ***- 옥련의 이야기: 2. 옥련의 작업과 정원의 시작***
 
- <br><br>
+ <br>
 나는 2011년에 이 가르텐에 오게 되었는데, 후쿠시마 원전 사고가 났던 해가 2011년인가? 11년에 여기를 오게 되었어요. 그 전에도 깻잎 같은 한국 채소를 직접 심고 싶다는 생각은 있었어요. 그래도 어떤 계기랄까? 사람이 정신적인 촉수를 예민하게 밝히고 있을 경우에 온다고 그러나? 지금까지 해왔던 예술 작업과 (연관되어요).
 
 <br>
-그 전에는 작가로서 열심히 활동을 했어요. 주로 화실에서 작업을 했는데 내가 생명과 직접적인 (관계가) 없는 허탈함이 있었다고. 내 작품 세계에서 특징적인 것이 
-
-**베를린 장벽이 무너진 후 변화**
- 에요. 오이포리(Euphorie, 직역: 행복감)가 잔뜩 있어가지고 굉장한 희망이 솟구쳐. 창작의 이데(Idee, 직역: 아이디어)가 샘물처럼 나와요. 당시 글로벌리즘, 세계화가 어떻게 전개될 것이냐. 그것을 굉장히 긍정적인 측면으로 다뤄서 작업도 하고. 그게 바로 2000년대죠. 
+그 전에는 작가로서 열심히 활동을 했어요. 주로 화실에서 작업을 했는데 내가 생명과 직접적인 (관계가) 없는 허탈함이 있었다고. 내 작품 세계에서 특징적인 것이 **베를린 장벽이 무너진 후 변화**  에요. 오이포리(Euphorie, 직역: 행복감)가 잔뜩 있어가지고 굉장한 희망이 솟구쳐. 창작의 이데(Idee, 직역: 아이디어)가 샘물처럼 나와요. 당시 글로벌리즘, 세계화가 어떻게 전개될 것이냐. 그것을 굉장히 긍정적인 측면으로 다뤄서 작업도 하고. 그게 바로 2000년대죠. 
 
 <br>
 그 당시에 글로발 뎅켄, 로칼 한델(Global Denken, Lokal Handeln, 직역: 세계적으로 생각하고, 지역적으로 행동한다)을 생각했는데 처음에는 대치적으로 생각했어. 글로벌리즘에 대해 부정적으로 생각하다가 유연하게 돌려서 글로벌 뎅켄, 로칼 한델 그런 식으로 이야기를 하던 때였어요. 당시만 해도 가까이서 생산된 것들이 건강한 먹거리라고 하는데, 직접 경험한 것도 아니고, 모든 물자가 교류하고 바뀌는 입장이 좋은 게 아닌가 그런 쪽이었지. 
