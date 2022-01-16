@@ -21,7 +21,7 @@ published: true
 지금은 인터넷이 있으니까 농사꾼들도 팟값이 얼마인지는 대충 알고 있단 말이에요. 옛날에는 장사꾼이 와서 ‘이거 백 원이야’ 그러면 백 원 받고 ‘이거 천 원이야’ 그러면 천 원 받고 주는대로 받았어요. 지금은 모바일로도 볼 수 있으니까 장사꾼들이 백 원 준다고 하면 농부들이 ‘지금 가락동에서 얼만데 이만큼은 줘야지’라고 말하는 게 현실이죠. 장사꾼도 팟값이 비싸면 밭으로 안 다녀요. 값이 내려가길 기다리죠.
 
 <p align="center">
-  <img src="/asset/images/interviews/Chajaejun/garak_chart.png" width="300px" />
+  <img src="/asset/images/interviews/Chajaejun/garak_chart.png" width="450px" />
 </p>
 <p align="center">
 <small>
