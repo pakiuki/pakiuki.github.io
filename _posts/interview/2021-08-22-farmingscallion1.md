@@ -15,7 +15,7 @@ published: true
 
 <p align="center">
   <img src="/asset/images/interviews/Chajaejun/cha.jpg" width="300px" />
-  <img src="asset\images\interviews\Chajaejun\team.JPG" width="300px" />
+  <img src="/asset/images/interviews/Chajaejun/team.JPG" width="300px" />
 </p>
 <p align="center">
 <small>
