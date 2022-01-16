@@ -11,7 +11,6 @@ published: true
 [(2)베를린에서 한국 작물 기르기](http://pakiuki.github.io/interview/2021/10/10/Oklyun-Interview_2.html)  
 
  <p align="center">
-<<<<<<< HEAD
   <img src="/asset/images/interviews/Oklyun/Oklyun Interview (1).jpg" width="300px"/>
   <img src="/asset/images/interviews/Oklyun/Oklyun Interview (2).jpg" width="300px"/>
   </p>
@@ -20,22 +19,6 @@ published: true
   <img src="/asset/images/interviews/Oklyun/Oklyun Interview (3).jpg" width="300px"/>
   <img src="/asset/images/interviews/Oklyun/Oklyun Interview (7).jpg" width="300px"/>
   </p>
-=======
-  <img src="/asset/images/interviews/Oklyun/Oklyun Interview (1).jpg" width="400px"/>
-  <img src="/asset/images/interviews/Oklyun/Oklyun Interview (2).jpg" width="400px"/>
-</p>
-<<<<<<< HEAD
-<p align="center">
-  <img src="/asset/images/interviews/Oklyun/Oklyun Interview (3).jpg" width="500px"/>
-  <img src="/asset/images/interviews/Oklyun/Oklyun Interview (7).jpg" width="500px"/>
-=======
-
- <p align="center">
-  <img src="/asset/images/interviews/Oklyun/Oklyun Interview (3).jpg" width="400px"/>
-  <img src="/asset/images/interviews/Oklyun/Oklyun Interview (7).jpg" width="400px"/>
->>>>>>> fd601fc3061d07566f5ef286881f2adfd7ef0cae
-</p>
->>>>>>> b2719d7b33ad73743a559c7217bac4f5fda12678
 
 <p align="center">
 <small>
