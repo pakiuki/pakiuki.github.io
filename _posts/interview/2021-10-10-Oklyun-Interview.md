@@ -15,13 +15,11 @@ published: true
   <img src="/asset/images/interviews/Oklyun/Oklyun Interview (2).jpg" width="500px"/>
 </p>
 <p align="center">
-
- <p align="center">
   <img src="/asset/images/interviews/Oklyun/Oklyun Interview (3).jpg" width="500px"/>
   <img src="/asset/images/interviews/Oklyun/Oklyun Interview (7).jpg" width="500px"/>
 </p>
-<p align="center">
 
+<p align="center">
 <small>
 (사진 왼쪽에서부터) 옥련의 정원이 있는 크로이쯔 베르크 전경, 자전거를 타고 도착해서 문을 열고 정원으로 들어가고 있는 옥련, 장갑으로 무장한 나
 </small></p>

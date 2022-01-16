@@ -34,8 +34,8 @@ published: true
 
 차재준: 파를 키우는 시기는 지역마다 달라요. 경기 북부 지역은 2월 초에 하우스에서 모종을 심어요. 밖에서는 어렵고요. 요즘은 트레이판이 있어요. 또 파 씨를 넣는 기계가 있거든요. 상토라는 흙을 쓰고 보통은 200구짜리를 사용해요. 파는 얇으니까 한 구멍에 보통 대여섯 개 씨를 넣지요. 씨를 넣어 키우는 기간은 어떻게 키우느냐에 따라서 달라요. 하우스 안에서도 이중 멀칭을 해야 하거든요. 판을 깔고 나면 판 위에 얇은 비닐을 딱 붙여가지고 씌워요. 그 위에 활대를 놓고 다시 밧줄을 씌웁니다. 그러니까 실질적으로는 하우스까지 합치면 3중이 되는 거죠.
 <p align="center">
-  <img src="/asset/images/interviews/Chajaejun/seedling_tray.jpg" width="300px" />
-  <img src="/asset/images/interviews/Chajaejun/seedling.jpg" width="300px" />
+  <img src="/asset/images/interviews/Chajaejun/seedling_tray.jpg" height="300px" />
+  <img src="/asset/images/interviews/Chajaejun/seedling.jpg" height="300px" />
 </p>
 <p align="center">
 <small>
