@@ -11,12 +11,19 @@ published: true
 [(2)베를린에서 한국 작물 기르기](http://pakiuki.github.io/interview/2021/10/10/Oklyun-Interview_2.html)  
 
  <p align="center">
-  <img src="/asset/images/interviews/Oklyun/Oklyun Interview (1).jpg" width="500px"/>
-  <img src="/asset/images/interviews/Oklyun/Oklyun Interview (2).jpg" width="500px"/>
+  <img src="/asset/images/interviews/Oklyun/Oklyun Interview (1).jpg" width="400px"/>
+  <img src="/asset/images/interviews/Oklyun/Oklyun Interview (2).jpg" width="400px"/>
 </p>
+<<<<<<< HEAD
 <p align="center">
   <img src="/asset/images/interviews/Oklyun/Oklyun Interview (3).jpg" width="500px"/>
   <img src="/asset/images/interviews/Oklyun/Oklyun Interview (7).jpg" width="500px"/>
+=======
+
+ <p align="center">
+  <img src="/asset/images/interviews/Oklyun/Oklyun Interview (3).jpg" width="400px"/>
+  <img src="/asset/images/interviews/Oklyun/Oklyun Interview (7).jpg" width="400px"/>
+>>>>>>> fd601fc3061d07566f5ef286881f2adfd7ef0cae
 </p>
 
 <p align="center">
@@ -24,8 +31,7 @@ published: true
 (사진 왼쪽에서부터) 옥련의 정원이 있는 크로이쯔 베르크 전경, 자전거를 타고 도착해서 문을 열고 정원으로 들어가고 있는 옥련, 장갑으로 무장한 나
 </small></p>
 
-
- <br>
+<br>
 
 *- 10월의 추운 어느 날. 옥련 님은 정원에 들어가기 전에 벌에 쏘이지 않기 위해 꼭 양말과 장갑을 신으라고 알려주셨다.*
 
