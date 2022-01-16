@@ -11,7 +11,16 @@ published: true
 [(2)대파 생산량과 가격-작년 기후에 부쳐](https://pakiuki.github.io/interview/2021/08/22/farmingscallion2.html)  
 [(3)대파 가정 재배 및 보관 요령](https://pakiuki.github.io/interview/2021/08/22/farmingscallion3.html)   
   
-갈무리팀과 농부 차재준은 여름 가뭄과 가을장마에 관해 이야기하며 파 농사에 대한 문답을 시작했다.
+*갈무리팀과 농부 차재준은 여름 가뭄과 가을장마에 관해 이야기하며 파 농사에 대한 문답을 시작했다.*
+
+<p align="center">
+  <img src="/asset/images/interviews/Chajaejun/cha.jpg" width="300px" />
+  <img src="/asset/images/interviews/Chajaejun/team.jpg" width="300px" />
+</p>
+<p align="center">
+<small>
+(사진 1,2) 차재준 농부님과 갈무리팀
+</small></p>
 
 갈무리팀: 안녕하세요. 파 농사에 대한 질문에 앞서 인터뷰 진행 과정을 간략히 소개해 드리겠습니다. 작년에 파를 기르셨다고 했는데 작년 수급이 어땠는지를 먼저 질문 드리고자 합니다. 그리고 어떻게 파 농사를 지으면 좋은지도 여쭤보고요. 요즘 사람들이 파가 비싸다고 파 뿌리를 잘라 물에서 키우는데 이게 잘 자랄지도 질문 드리겠습니다. 마지막으로 파 보관 요령도 여쭈어 볼 예정입니다. 구매자들 얘기를 들어보니 비가 오면 파 겉 부분이 무른다고 하더라고요.
 
@@ -26,8 +35,13 @@ published: true
 차재준: 파를 키우는 시기는 지역마다 달라요. 경기 북부 지역은 2월 초에 하우스에서 모종을 심어요. 밖에서는 어렵고요. 요즘은 트레이판이 있어요. 또 파 씨를 넣는 기계가 있거든요. 상토라는 흙을 쓰고 보통은 200구짜리를 사용해요. 파는 얇으니까 한 구멍에 보통 대여섯 개 씨를 넣지요. 씨를 넣어 키우는 기간은 어떻게 키우느냐에 따라서 달라요. 하우스 안에서도 이중 멀칭을 해야 하거든요. 판을 깔고 나면 판 위에 얇은 비닐을 딱 붙여가지고 씌워요. 그 위에 활대를 놓고 다시 밧줄을 씌웁니다. 그러니까 실질적으로는 하우스까지 합치면 3중이 되는 거죠.
 <p align="center">
   <img src="/asset/images/interviews/Chajaejun/seedling_tray.jpg" width="300px" />
+  <img src="/asset/images/interviews/Chajaejun/seedling.jpg" width="300px" />
 </p>
-  
+<p align="center">
+<small>
+(사진 3,4) 모종 트레이와 농부님이 기른 콩의 싹
+</small></p>
+
 
 갈무리팀: 멀칭(mulching) 작업은 어떤 효과가 있나요?
 
@@ -40,6 +54,10 @@ published: true
 <p align="center">
   <img src="/asset/images/interviews/Chajaejun/whiteroot.jpg" width="300px" />
 </p>
+<p align="center">
+<small>
+(사진 5) 파의 연백부
+</small></p>
   
 
 그리고 골을 째서 심는 파가 있어요. 두둑파보다 넓게 1m 정도 찢어요. 골을 째는 트랙터 뒤에 배토기가 달려 있는데 끝날이 뾰족하거든요. 끝날을 80cm 정도에 맞추고 깊지 않게 땅에 선만 그어요. 선 그은 자리에 일자로 7cm 간격으로 쭉 심어요. 이렇게 키우는 파는 10월 정도에 팔아요. 
@@ -48,7 +66,10 @@ published: true
 <p align="center">
   <img src="/asset/images/interviews/Chajaejun/cultivator_maxpixel.jpg" width="300px" />
 </p>
-  
+<p align="center">
+<small>
+(사진 6) 북주기가 달려있는 트랙터
+</small></p>
 
 보통 파가 흙 위로 연백부가 자라요. 연백부가 흙 위로 10cm 이상 넘어오면 골 째기를 해도 돼요. 연백부까지 흙이 차 있으면 연백부를 더 올려야 해요. 그래서 보통 다섯 번 골 째기를 한 파는 연백부가 길어 제일 좋은 상품이 돼요. 가락동 같은 데서 보이는 파의 연백부가 50~60cm 정도 되는데, 그 대신 파란 이파리가 짧아져요. 봄에 나오는 파의 경우는 연백부가 20cm짜리이고 파란색 이파리가 길어요. 반면 가을에 나가는 파는 연백부가 50~60cm짜리이고 이파리가 짧아요.
 
