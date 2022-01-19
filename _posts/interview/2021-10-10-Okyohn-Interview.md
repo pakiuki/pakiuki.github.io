@@ -7,8 +7,8 @@ description: 비워둬도 좋습니다. 혹시라도 검색최적화(SEO)를 원
 published: true
 ---
 **목차**  
-[(1)독일에서 텃밭을 가꾸게 된 계기](http://pakiuki.github.io/interview/2021/10/10/Oklyun-Interview.html)  
-[(2)베를린에서 한국 작물 기르기](http://pakiuki.github.io/interview/2021/10/10/Oklyun-Interview_2.html)  
+[(1)독일에서 텃밭을 가꾸게 된 계기](http://pakiuki.github.io/interview/2021/10/10/Okyohn-Interview.html)  
+[(2)베를린에서 한국 작물 기르기](http://pakiuki.github.io/interview/2021/10/10/Okyohn-Interview_2.html)  
 
  <p align="center">
   <img src="/asset/images/interviews/Oklyun/Oklyun Interview (1).jpg" width="300px"/>
