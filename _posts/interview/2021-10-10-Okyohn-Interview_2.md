@@ -168,7 +168,7 @@ published: true
  <br>
 옥련: 우리가 올 때 흙을 새로 여기다 갖다 붓는 거예요. 다년생이 돼버렸는데 10년째잖아요. 시금치는 봄 될 때까지 채취하잖아요. 근데 양배추 종류는 심어 놓으면 내년에 크게 자라는 거예요.
  <p align="center">
-  <img src="/asset/images/interviews/Oklyun/wurmworkshop (6).JPG"/>
+  <img src="/asset/images/interviews/Oklyun/wurmworkshop (6).JPG" width="650px"/>
   </p>
 
 <p align="center">

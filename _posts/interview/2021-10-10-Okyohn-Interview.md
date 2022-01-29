@@ -155,7 +155,7 @@ published: true
 <br>
 전에는 농사를 지어본 적도 없고, 다른 사람에 비해서 **그뤼네 다우멘**(Grüne Daumen: 직역: 녹색 엄지, 식물을 기르는 능력)이라고 그러나, 그런 것도 없었는데. 그래도 바로 부딪혀서 시작한 거예요. 10여 년째 되었는데 그 사이에 무수한 식물을 심어서 키워보고 경험하면서 완전히 다른 세계가 되었어요. 멀리 안 가도 새로운 세계, 완전히 다른 세계가 펼쳐진 거예요. 저절로 지네들이 나서 자라니까. 
 <p align="center">
-  <img src="/asset/images/interviews/Oklyun/Oklyun Interview (27).JPG"/>
+  <img src="/asset/images/interviews/Oklyun/Oklyun Interview (27).JPG" width="650px"/>
   </p>
 
 <p align="center">
