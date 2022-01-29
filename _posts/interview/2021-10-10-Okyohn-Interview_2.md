@@ -167,8 +167,24 @@ published: true
  
  <br>
 옥련: 우리가 올 때 흙을 새로 여기다 갖다 붓는 거예요. 다년생이 돼버렸는데 10년째잖아요. 시금치는 봄 될 때까지 채취하잖아요. 근데 양배추 종류는 심어 놓으면 내년에 크게 자라는 거예요.
- 
+ <p align="center">
+  <img src="/asset/images/interviews/Oklyun/wurmworkshop (6).JPG"/>
+  </p>
+
 <p align="center">
+<small>
+(사진) 퇴비 만드는 장소 (출처: 옥련) 
+</small>
+</p>
+ 
+
+<br>
+남명: 지렁이 함을 한 번 보겠습니다.
+ 
+ <br>
+옥련: 이게 이불이야. 습기 조절을 하거든. 지렁이가 습기가 너무 많아도 적어도 잘 못 자라고 그러니까. 너무 젖었을 때는 이불을 덮어요. 맨 위 칸은 좀 추우니까 덮어주고. 여기 흙이 다 지렁이 때문에 균일하죠.
+ 
+ <p align="center">
   <img src="/asset/images/interviews/Oklyun/Oklyun Interview (19).jpg" width="300px"/>
   <img src="/asset/images/interviews/Oklyun/Oklyun Interview (22).jpg" width="300px"/>
   </p>
@@ -179,12 +195,7 @@ published: true
 </small>
 </p>
 
-<br>
-남명: 지렁이 함을 한 번 보겠습니다.
- 
- <br>
-옥련: 이게 이불이야. 습기 조절을 하거든. 지렁이가 습기가 너무 많아도 적어도 잘 못 자라고 그러니까. 너무 젖었을 때는 이불을 덮어요. 맨 위 칸은 좀 추우니까 덮어주고. 여기 흙이 다 지렁이 때문에 균일하죠.
- 
+
  <br>
 
 ***- 옥련의 이야기: 8. 한국 녹색당과 한국의 문화에 대하여***
