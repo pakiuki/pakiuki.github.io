@@ -149,6 +149,7 @@ published: true
 <p align="center">
   <img src="/asset/images/interviews/Oklyun/Oklyun Interview (19).jpg" width="300px"/>
   <img src="/asset/images/interviews/Oklyun/Oklyun Interview (22).jpg" width="300px"/>
+</p>
 
 <br>
 <br>
@@ -175,7 +176,7 @@ published: true
 
  <p align="center">
   <img src="/asset/images/interviews/Oklyun/wurmworkshop (6).JPG" width="650px"/>
-  </p>
+</p>
 
 <p align="center">
 <small>
