@@ -7,8 +7,8 @@ description: 비워둬도 좋습니다. 혹시라도 검색최적화(SEO)를 원
 published: true
 ---
 **목차**  
-[(1)독일에서 텃밭을 가꾸게 된 계기](http://pakiuki.github.io/interview/2021/10/10/Oklyun-Interview.html)  
-[(2)베를린에서 한국 작물 기르기](http://pakiuki.github.io/interview/2021/10/10/Oklyun-Interview_2.html)  
+[(1)독일에서 텃밭을 가꾸게 된 계기](http://pakiuki.github.io/interview/2021/10/10/Okyohn-Interview.html)  
+[(2)베를린에서 한국 작물 기르기](http://pakiuki.github.io/interview/2021/10/10/Okyohn-Interview_2.html)  
 
  <p align="center">
   <img src="/asset/images/interviews/Oklyun/Oklyun Interview (1).jpg" width="300px"/>
@@ -169,7 +169,20 @@ published: true
 그런데 지금은 도시 한 가운데서 채소는 멀리서 운반된 것이 아닐뿐더러 직접 키워 먹기까지 하는 도시농부까지 되었잖아요. 방향이 180도로 틀어졌다고 할까. 예술 행위는 당면한 의제를 두고 구체적인 답변을 내놓을 수 있는 행위가 결코 아님에도 불구하고 지금은 생명과는 직접 상관없는 관념적 질문들을 중단하고 또 끊임없이 자료를 수집하고 연구하던 건조한 실내공간에서의 작업으로부터도 뛰쳐나와 흙과 함께 새로운 길 위에 서 있는 셈이지요.
 
 <br>
+<<<<<<< HEAD:_posts/interview/2021-10-10-Oklyun-Interview.md
 오래전부터 이곳에서 한국 채소를 직접 심고 싶다는 생각은 늘 간직하고 있었지만, 구체적으론 후쿠시마 원전 사고가 터진 2011년 전 지구적 기후 이변 아래 더 이상 이대로 갈 수는‚ 없다는 심정으로 최소한의 양식은 이제 내스스로 책임져 보리란 결심과 함께 바로 시작하게 된 이 텃밭 농사가 이제 벌써 10여년이 되어갑니다. 
+=======
+전에는 농사를 지어본 적도 없고, 다른 사람에 비해서 **그뤼네 다우멘**(Grüne Daumen: 직역: 녹색 엄지, 식물을 기르는 능력)이라고 그러나, 그런 것도 없었는데. 그래도 바로 부딪혀서 시작한 거예요. 10여 년째 되었는데 그 사이에 무수한 식물을 심어서 키워보고 경험하면서 완전히 다른 세계가 되었어요. 멀리 안 가도 새로운 세계, 완전히 다른 세계가 펼쳐진 거예요. 저절로 지네들이 나서 자라니까. 
+<p align="center">
+  <img src="/asset/images/interviews/Oklyun/Oklyun Interview (27).JPG" width="650px"/>
+  </p>
+
+<p align="center">
+<small>
+옥련의 텃밭 풍경
+</small>
+</p>
+>>>>>>> 76b7e24aacaecf5a26a36ed8fba5cbe10c11d4d3:_posts/interview/2021-10-10-Okyohn-Interview.md
 <br>
 여러 채소를 키우면서 물론 그에 적절한 농사법도 배우면서 하고 있지만, 이 일이 사람의 기술만으로 되는 것이 아니라 늘 기후와 함께 지어가야 한다는 사실도 오롯이 체감하고 이제는 늘 날씨를 예민하게 느끼며 살아가는 습관도 갖게 되었어요. 
 

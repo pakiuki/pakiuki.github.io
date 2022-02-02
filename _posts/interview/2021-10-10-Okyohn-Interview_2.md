@@ -6,9 +6,9 @@ categories: interview
 description: 비워둬도 좋습니다. 혹시라도 검색최적화(SEO)를 원한다면 채워넣는게 좋습니다.
 published: true
 ---
-목차  
-[(1)독일에서 텃밭을 가꾸게 된 계기](http://pakiuki.github.io/interview/2021/10/10/Oklyun-Interview.html)  
-[(2)베를린에서 한국 작물 기르기](http://pakiuki.github.io/interview/2021/10/10/Oklyun-Interview_2.html)  
+**목차**  
+[(1)독일에서 텃밭을 가꾸게 된 계기](http://pakiuki.github.io/interview/2021/10/10/Okyohn-Interview.html)  
+[(2)베를린에서 한국 작물 기르기](http://pakiuki.github.io/interview/2021/10/10/Okyohn-Interview_2.html)  
  
  <p align="center">
   <img src="/asset/images/interviews/Oklyun/Oklyun Interview (17).jpg" width="300px"/>
@@ -143,8 +143,46 @@ published: true
  독일은 한국과 프랑스 같은 나라에 비해 먹거리 종류는 많지 않은 대신 콜(Kohl, 직역: 양배추, 케일) 종류는 정말 많아요. 영하의 겨울 텃밭에서도 단단히 버티고 있는 그린 콜 (Green Kohl)과 슈바르츠 콜(Schwarz Kohl)의 잎을 따다 채소볶음 요리를 하면 여유 있는 겨울나기를 하는 듯 뿌듯하기도 하지요.
 <br><br> 
 
+<<<<<<< HEAD:_posts/interview/2021-10-10-Oklyun-Interview_2.md
  
 <p align="center">
+  <img src="/asset/images/interviews/Oklyun/Oklyun Interview (19).jpg" width="300px"/>
+  <img src="/asset/images/interviews/Oklyun/Oklyun Interview (22).jpg" width="300px"/>
+=======
+***- 옥련의 이야기: 7. 정원 돌아보기***
+ 
+ <br>
+옥련: 여기도 깻잎이 있고 저기도 깻잎이 있고. 각자 밭이 있거든. 모두가 다들 깻잎 심겠다고 해. 여기도 깻잎이 커지기 전에 벌써 꽃이 폈네.
+ 
+ <br>
+남명: 옥련 님의 깻잎인가 봐요.
+ 
+ <br>
+옥련: 너무 신기해요. 제때에 모종을 심어가지고 때를 잘 맞춰주고 그래야만 볼 수 있어요. 정말 기뻐요. 자연 기후, 온도가 자랄 수 있는 환경인 거예요. 이거는 둥글레 꽃이에요. 차로 마셔요.
+ 
+ <br>
+남명: 꽃도 직접 심으신 거예요?
+ 
+ <br>
+옥련: 우리가 올 때 흙을 새로 여기다 갖다 붓는 거예요. 다년생이 돼버렸는데 10년째잖아요. 시금치는 봄 될 때까지 채취하잖아요. 근데 양배추 종류는 심어 놓으면 내년에 크게 자라는 거예요.
+ <p align="center">
+  <img src="/asset/images/interviews/Oklyun/wurmworkshop (6).JPG" width="650px"/>
+>>>>>>> 76b7e24aacaecf5a26a36ed8fba5cbe10c11d4d3:_posts/interview/2021-10-10-Okyohn-Interview_2.md
+  </p>
+
+<p align="center">
+<small>
+(사진) 퇴비 만드는 장소 (출처: 옥련) 
+</small>
+</p>
+ 
+
+***- 옥련의 이야기: 7. 베를린 녹색평론 독자 모임과 한국의 문화에 대하여***
+ 
+ <br>
+옥련: 우리가 베를린 녹색평론 독자 모임에서 처음 만났지요. 한국 녹색당 유럽 당원 모임의 당원으로 활발한 활동을 하는 손어진씨가 양쪽을 오가며 이 모임을 주관했어요. 주로 유학 온 젊은이들이 오가며 참여했는데 나는 어진씨와 함께 이 녹평 독자모임에 시작부터 끝까지 적극적으로 참여하며 한국에서 한살림을 제창하신 장일순 선생님, 녹색평론을 창간한 김종철 선생님 같은 분들이 선구적으로 이끌어 주신 한국의 생태 운동에 관해 함께 논하며 이해를 넓히고자 했어요. 
+ 
+ <p align="center">
   <img src="/asset/images/interviews/Oklyun/Oklyun Interview (19).jpg" width="300px"/>
   <img src="/asset/images/interviews/Oklyun/Oklyun Interview (22).jpg" width="300px"/>
   </p>
@@ -155,11 +193,7 @@ published: true
 </small>
 </p>
 
-***- 옥련의 이야기: 7. 베를린 녹색평론 독자 모임과 한국의 문화에 대하여***
- 
- <br>
-옥련: 우리가 베를린 녹색평론 독자 모임에서 처음 만났지요. 한국 녹색당 유럽 당원 모임의 당원으로 활발한 활동을 하는 손어진씨가 양쪽을 오가며 이 모임을 주관했어요. 주로 유학 온 젊은이들이 오가며 참여했는데 나는 어진씨와 함께 이 녹평 독자모임에 시작부터 끝까지 적극적으로 참여하며 한국에서 한살림을 제창하신 장일순 선생님, 녹색평론을 창간한 김종철 선생님 같은 분들이 선구적으로 이끌어 주신 한국의 생태 운동에 관해 함께 논하며 이해를 넓히고자 했어요. 
- 
+
  <br>
 비록 대도시인지라 참여자들이 자주 바뀌며 고정적이진 않았지만, 텃밭에서 때론 녹평모임을 가지기도 했어요. 지금까지 함께 농사도 지으며 이 텃밭을 거쳐 간 젊은 친구들은 모두 이 모임에서 만났더랬어요. 대부분 텃밭 농사에 관심들은 많으나 실제 채소를 제대로 심어본 경험은 미미해서 주로 제가 습득한 텃밭 경험들을 전수하며 지금도 몇 사람과는 구획을 나누어 함께 텃밭을 가꾸어가고 있어요. 
  <br>
